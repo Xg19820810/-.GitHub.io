@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Xg19820810/-.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 阿贝多
+- 阿贝多，游戏《原神》中的5星岩系角色，现定居蒙德的炼金术士，效力于西风骑士团。
+- “天才”、“白垩之子”或“调查队长”，阿贝多并不怎么在意称号和名望，只专注于研究课题。财富和人脉不是他的目标。他渴望驾驭的，是从古到今深藏于人类头脑中的无上知识。 
+- 中文名 阿贝多
+- 别    名 白垩之子
+- 配    音 Mace（中文）、野岛健儿（日文）
+- 性    别 男
+- 登场作品 《原神》
+- 所    属 蒙德
+- 稀有度 5星
+- 神之眼 岩
+- 武器类型 单手剑
+![图片1](https://user-images.githubusercontent.com/95960079/145673226-435ff0e7-237b-4deb-a0de-050ab77589c0.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 角色故事
+1. 阿贝多在骑士团里担任着相当重要的职务，不过，他很少抛头露面。并非因为他有学者式的古怪脾气。相反，他待人接物都非常真诚。只是，用过量热情建立起的亲密并不牢靠，想要维持它，就要付出更多能量。
+因此，阿贝多选择与他人保持恰当而友善的距离。如果赶上他闭锁工坊外出游历或是寻找素材的日子，蒙德城里谁都找不到他。
+但疏离的人际并不意味着阿贝多是个内心冷淡的人。在指导助手蒂玛乌斯和砂糖时，他会发自真心感到愉快。在为蒙德市民递送刚画好的速写时，他也会感到由衷的高兴。而在见到那位丽莎小姐明明拥有如此才华却自愿屈居图书管理员一职时他则会由衷地感到可惜。
+2. 阿贝多是凭借师父的推荐信才得以在蒙德安身。”这句话倒也算是事实。不过蒙德城永远欢迎任何人，有没有推荐信并不重要。
+不如说，要是没有这封推荐信，阿贝多在蒙德城会过得更舒服吧。因为，推荐信的收件人是著名游记作者艾莉丝，阿贝多师父莱茵多特的故交。
+艾莉丝读完推荐信，沉思了好一会儿。“莱茵说，要我给你配一个实验室，这可不是民间力量能建起的规模啊。嗯……我想到了！”就这样，阿贝多被艾莉丝丢进了西风骑士团。
+骑士团的工作对阿贝多来说较为轻松，只花百分之五的精力，就能把那些事情处理得很好。本以为除此之外的精力都可以用于实验，骑士团的实验室及全套器材也能任凭自己折腾。
+然而。艾莉丝有个女儿，叫做可莉。没错，就是“那个”可莉。“这从今往后我们就是一家人了。你就把她当做亲妹妹吧！”未来的日子里，为可莉善后一事占据了阿贝多剩余精力的大半。
+3. 阿贝多没有关于血亲的记忆。自记事起，他就与师父一起在秘境深界探险。骑士团的大家、艾莉丝阿姨，以及那位有着星海气息的旅行者。
+他们都是重要之人，但在阿贝多的生命中，师父的地位显然最为特殊。对阿贝多来说，她是唯一的亲人。师父是一位冷淡、严格的女性。她养育了阿贝多，也教给他炼金术的奥秘。
+“宇宙……是真实星空那玄黑色的本质，地层……是时间和生命堆积的记忆。白垩……你，黑土……是炼金术的语源，也是生命的根基。而这……”她为阿贝多展示了她的技法。巨大的生命破卵而出，培养槽的碎片散落一地。
+“这是诞生。”
+4. 曾经的阿贝多过着简单而又快乐的生活。他不用思考什么。生命似乎是单调的，意义仅在于陪伴师父、完成师父的吩咐、达成师父的期待。
+然而某一天，这对师徒在世界的深处找到一件名为“纳贝里士之心”的圣遗物。自那以后，师父便消失了。只留下字条、一封推荐信和一部典籍。
+字条上写着：让阿贝多前往蒙德，寻找师父的故交艾莉丝，转交推荐信，并完成最后的课题。典籍，则是师父珍藏的“大仪秘典”残章。此外，还有一件较为特殊的礼物，师父对阿贝多出师一事给予书面认可，并授予他“白垩之子”的称号。
+阿贝多从前面对的每一个课题都很困难。他也相信，师父那些“办不到就抛弃你”的威胁，每一次都是认真说出口的。但现在，阿贝多接到的这个课题实在过于困难，已经超出了他能承受的极限，这是否意味着他再也没有完成课题，与师父重聚的机会了呢？
+“最后的课题，向我展示世界的真相，与世界的意义。”
+5. 阿贝多所掌握的“炼金术”，不同于提瓦特七国中任何一国的现有技术。他的师承，来自七国之外的国度……名为“坎瑞亚”之国。
+坎瑞亚深藏于地下，天然动物种类相当至少。因此，它所持有的“炼金术”，更侧重于“创造生命”这一分支领域。孕育生命之术“黑土之术”。
+年幼的阿贝多曾在师父笔记中了解到这一信息。“黑土”的进阶乃是“白垩”。这件事，师父也曾提起过。
+“白垩是无垢之土，也是原初之人的质料。”如今的阿贝多对炼金术造诣更深，对知识的理解也比过去更完整。“黑土诞生白垩。”
+他已经完全读懂这句话所代表的无上深意。这些不可言说的奥秘，与对师父的怀念紧紧相连。师父固然有别于父母，可毫无疑问，阿贝多的生命来自于她。
+“哎呀，希望我没自作多情。父母对孩子所说的世界的意义应该只是幸福生活的意思吧。”阿贝多偶尔会这么想。
 
-### Markdown
+## 阿贝多的画
+  阿贝多绘画的习惯，是在跟随师父旅行的时代养成的。一开始，只是学习笔记的配图。后来他发觉，画出细节有助于理解物体的结构与规律，对于学习炼金术大有裨益。而且绘画时，心灵会进入某种澄澈的境界，除去观察与动笔什么都不考虑，十分舒适。
+最终，阿贝多无师自通，成为了绘画高手。到蒙德城内闲逛时，阿贝多总会写生。他喜欢记录人们幸福的时刻。有时，他还会把画赠送给不知情的“模特”。因为他始终认为，凝固了瞬间欢愉的画面值得珍藏。
+时光飞逝，阿贝多的画技日渐高超。即便如此，初次看到“稻妻插画”时，他仍受到了不小的冲击。为什么世上会有如此依靠图像概括，却又带有巨大叙事力量的画作？
+太奇妙了。阿贝多非常想要试一试。后来，在与名为行秋的某位小说作者合作后，《沉秋拾剑录》付梓问世了。只可惜这本小说反响平平，被普遍评价为“神插画配字典”。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xg19820810/-.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
